@@ -1,5 +1,1 @@
-This repository is created to submit assignment for below mentioned program : 
-
-Certification program : **Full Stack Certification in Data Science**
-
-Institute : **PWSkills**
+This assignment has problems related to 'For Loop', 'If Else', 'Map', 'Reduce', 'Filter', 'Recursion', 'Basics of Functions', 'Function Parameters and Arguments', 'Return Values and Scoping', 'Lambda Functions and Higher-Order Functions', 'Built-in Functions' & 'Function Documentation and Best Practices'
