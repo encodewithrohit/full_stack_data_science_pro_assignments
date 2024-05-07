@@ -1,5 +1,1 @@
-This repository is created to submit assignment for below mentioned program : 
-
-Certification program : **Full Stack Certification in Data Science**
-
-Institute : **PWSkills**
+This branch has solution to the first assignment to the problems related to OOPS.
