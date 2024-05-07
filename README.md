@@ -1,4 +1,4 @@
-This branch have solutions of the assignment related to : 
+This branch have solutions of the assignment having problems related to : 
 
 - For Loop
 - If Else
