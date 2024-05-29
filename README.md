@@ -1,5 +1,7 @@
-This repository has been created to submit assignments for the below mentioned program : 
-
-Certification program : **Full Stack Certification in Data Science**
-
-Institute : **PWSkills**
+Solutions of OOPS Assignment having problems related to :
+- Constructor
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
+- Composition
