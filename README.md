@@ -1,4 +1,4 @@
-This repository is created to submit solutions of assignment for the below mentioned program : 
+This repository has been created to submit assignments for the below mentioned program : 
 
 Certification program : **Full Stack Certification in Data Science**
 
