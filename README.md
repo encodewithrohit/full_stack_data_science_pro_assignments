@@ -11,15 +11,15 @@ We have performed **Exploratorary Data Analysis** on this dataset focused on **H
 **Features** :
 
 - Age : The age of the patient (numeric).
-- Anaemia : Indicates the presence of anemia (binary: 0 for no, 1 for yes).
+- Anaemia : Indicates the presence of anemia (binary : 0 for no, 1 for yes).
 - Creatinine Phosphokinase (CPK) : Level of creatinine phosphokinase enzyme in the blood (numeric).
-- Diabetes : Indicates whether the patient has diabetes (binary: 0 for no, 1 for yes).
+- Diabetes : Indicates whether the patient has diabetes (binary : 0 for no, 1 for yes).
 - Ejection Fraction : Percentage of blood leaving the heart at each contraction (numeric).
-- High Blood Pressure : Indicates whether the patient has high blood pressure (binary: 0 for no, 1 for yes).
+- High Blood Pressure : Indicates whether the patient has high blood pressure (binary : 0 for no, 1 for yes).
 - Platelets : Platelet count in the blood (numeric).
 - Serum Creatinine : Level of creatinine in the blood (numeric).
 - Serum Sodium : Level of sodium in the blood (numeric).
-- Sex : Gender of the patient (binary: 0 for female, 1 for male).
-- Smoking : Indicates whether the patient smokes (binary: 0 for no, 1 for yes).
+- Sex : Gender of the patient (binary : 0 for female, 1 for male).
+- Smoking : Indicates whether the patient smokes (binary : 0 for no, 1 for yes).
 - Time : Follow-up period (in days) for the patient's condition (numeric).
-- Death event : Indicates whether the patient died during the follow-up period (binary: 0 for no, 1 for yes).
+- Death event : Indicates whether the patient died during the follow-up period (binary : 0 for no, 1 for yes).
